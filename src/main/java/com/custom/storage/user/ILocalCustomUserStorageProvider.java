@@ -14,4 +14,5 @@ public interface ILocalCustomUserStorageProvider extends UserStorageProvider, Us
 
 	void setSession(KeycloakSession session);
 
+	
 }

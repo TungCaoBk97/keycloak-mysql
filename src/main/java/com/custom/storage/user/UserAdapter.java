@@ -43,6 +43,7 @@ public class UserAdapter extends AbstractUserAdapterFederatedStorage {
         System.out.println("Set First Name: " + fullName);
         entity.setFirstName(fullName);
     }
+    
 
     @Override
     public String getLastName() {
